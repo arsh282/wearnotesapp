@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.WearNotesApp" parent="androidx.wear.material.themes.WearTheme">
+    </style>
+</resources>
